@@ -4,6 +4,7 @@ public class Main {
         for(int i = 0; i<var.length();i++){
             char character = var.charAt(i);
             System.out.println(character);
+            System.out.println(character + ' ');
         }
     }
 }
